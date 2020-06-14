@@ -9,6 +9,6 @@ pip install requests
 
 # Usage
 
-sudo python dnsbrute.py http://site.com/ <wordlist>
+sudo python dirbrute.py http://site.com/ <wordlist>
 
-Example: sudo python dnsbrute.py http://site.com/ /home/user/wordlist.txt
+Example: sudo python dirbrute.py http://site.com/ /home/user/wordlist.txt
