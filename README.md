@@ -9,6 +9,7 @@ pip install requests
 
 # Usage
 
-sudo python dirbrute.py http://site.com/ <wordlist>
+sudo python dirbrute.py http://site.com/ <wordlist path>
+
 
 Example: sudo python dirbrute.py http://site.com/ /home/user/wordlist.txt
